@@ -3,5 +3,5 @@
 
 # Lesson 1 (Introduction)
 
-[Lesson01][Lesso01.md]
+[Lesson01](lesson01.md)
 
