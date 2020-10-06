@@ -14,3 +14,5 @@ Video: [Next-Gen Image Format- JPEG XL] https://www.youtube.com/watch?v=lqi5U6dx
 [Matlab Università di Cagliari](https://unica.it/unica/it/studenti_s08_ss09.page)
 
 [Questionario ingresso](https://docs.google.com/forms/d/e/1FAIpQLSdg2BkzJo1zE4E0UOBwGLkkzYC26vAAf5bW_8FDWN5p6Nf95A/viewform?usp=sf_link)
+
+# Lesson 2
