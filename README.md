@@ -15,7 +15,10 @@ Video: [Next-Gen Image Format- JPEG XL] https://www.youtube.com/watch?v=lqi5U6dx
 
 [Questionario ingresso](https://docs.google.com/forms/d/e/1FAIpQLSdg2BkzJo1zE4E0UOBwGLkkzYC26vAAf5bW_8FDWN5p6Nf95A/viewform?usp=sf_link)
 
-Attività: provare i comandi nello script lezione001.m
+Acivity: provare i comandi nello script lezione001.m
 
+# Lesson 2
+
+Procedure standard per la valutazione oggettiva e soggettiva di architetture per la compressione di immagini (docs/DigitalMedia-SubjectiveObjectiveMetrics)
 
 
