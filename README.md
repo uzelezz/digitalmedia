@@ -22,3 +22,6 @@ Acivity: provare i comandi nello script lezione001.m
 Procedure standard per la valutazione oggettiva e soggettiva di architetture per la compressione di immagini (docs/DigitalMedia-SubjectiveObjectiveMetrics)
 
 
+# Lesson 3
+
+Esercitazione: curve rate-distortion, confronto JPEG / JPEG 2000, discussione risultati, PSNR e SSIM

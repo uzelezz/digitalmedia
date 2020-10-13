@@ -1,10 +1,18 @@
-S = imread('dataset/LF_Bike_Central/007_007.pgm');
+clear; clc;
+
+mkdir('sandbox');
+cd('sandbox');
+
+filenamepgm = '../dataset/LF_Bike_Central/007_007.pgm';
+filenameppm = '../dataset/LF_Bike_Central/007_007.ppm';
+
+S = imread(filenamepgm);
 
 imwrite(S,'testBINARY.pgm','Encoding','rawbits');  
 
 imwrite(S,'testBINARY.pgm','Encoding','ascii');  
 
-S1 = imread('dataset/LF_Bike_Central/007_007.ppm');
+S1 = imread(filenameppm);
 
 imwrite(S,'testBINARY2.ppm','Encoding','rawbits');  
 
